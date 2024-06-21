@@ -9,7 +9,7 @@
 
 2. Navigate to the project directory:
     ```bash
-    cd high_traffic_app
+    cd traffic_app
     ```
 
 3. Install dependencies:
